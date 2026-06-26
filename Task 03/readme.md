@@ -58,5 +58,6 @@ Binary classification, medical/clinical data interpretation, model evaluation us
 
 How to Run
 
-Open Task3_Heart_Disease_Prediction.ipynb in Jupyter Notebook or Google Colab and run all cells sequentially. Requires internet access to load the dataset from GitHub; no API keys are needed.Colab_Notebook link:
+Open Task3_Heart_Disease_Prediction.ipynb in Jupyter Notebook or Google Colab and run all cells sequentially. Requires internet access to load the dataset from GitHub; no API keys are needed.
+Colab_Notebook link:
 https://colab.research.google.com/drive/1oBrURu93iuMc9ePSv5yPwKW5KJ-miKPn?usp=sharing
